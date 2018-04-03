@@ -9,5 +9,6 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock Text="Git"/>
+        <TextBlock Text="xxxx" Margin="50,0,0,0"/>
     </Grid>
 </Page>
